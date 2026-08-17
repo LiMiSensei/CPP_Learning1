@@ -7,10 +7,16 @@
 #include <iostream> // std 指令
 #include <ostream>
 
-void _5_How_CPP_Works::main() {
-    std::cout << "How C++ Works" << std::endl;//输出流
-    std::cin.get();//暂停
+void Log(const char* message) {
+    std::cout << message << std::endl;
+    std::cin.get();
+}
 
+
+void _5_How_CPP_Works::main() {
+    //std::cout << "How C++ Works" << std::endl;//输出流
+    //std::cin.get();//暂停
+    Log("Hello World");
     //Code Generation :
     // 优化配置，代码生成选项，预处理器定义
 

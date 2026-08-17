@@ -1,0 +1,15 @@
+//
+// Created by LiMi on 2026/8/18.
+//
+
+#ifndef LEARNINGDEMO__11_HOW_TO_DEBUG_CPP_IN_VISUAL_STUDIO_H
+#define LEARNINGDEMO__11_HOW_TO_DEBUG_CPP_IN_VISUAL_STUDIO_H
+
+
+class _11_How_to_DEBUG_CPP_in_VISUAL_STUDIO {
+public:
+    static void main();
+};
+
+
+#endif //LEARNINGDEMO__11_HOW_TO_DEBUG_CPP_IN_VISUAL_STUDIO_H
