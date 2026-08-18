@@ -1,0 +1,15 @@
+//
+// Created by LiMi on 2026/8/19.
+//
+
+#ifndef LEARNINGDEMO__13_BEST_VISUAL_STUDIO_SETUP_FOR_CPP_PROJECTS_H
+#define LEARNINGDEMO__13_BEST_VISUAL_STUDIO_SETUP_FOR_CPP_PROJECTS_H
+
+
+class _13_BEST_Visual_Studio_Setup_for_CPP_Projects {
+public:
+    static void main();
+};
+
+
+#endif //LEARNINGDEMO__13_BEST_VISUAL_STUDIO_SETUP_FOR_CPP_PROJECTS_H
