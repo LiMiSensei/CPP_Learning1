@@ -15,7 +15,15 @@
 #include "Header/_20_How_to_Write_a_CPP_Class.h"
 #include "Header/_21_Static_in_CPP.h"
 #include "Header/_22_Static_for_Classes_and_Structs_in_CPP.h"
+#include "Header/_24_Constructors_in_CPP.h"
+#include "Header/_25_Destructors_in_CPP.h"
+#include "Header/_26_Inheritance_in_CPP.h"
+#include "Header/_27_Virtual_Functions_in_CPP.h"
+#include "Header/_28_Interfaces_in_CPP_Pure_Virtual_Functions.h"
 #include "Header/_2_How_to_Setup_CPP_on_Windows.h"
+#include "Header/_30_Arrays_in_CPP.h"
+#include "Header/_31_How_Strings_Work_in_CPP_and_ho_to_use_them.h"
+#include "Header/_32_String_Literals_in_CPP.h"
 #include "Header/_3_How_to_Setu_CPP_on_Mac.h"
 #include "Header/_4_How_to_Setup_CPP_on_Linux.h"
 #include "Header/_5_How_CPP_Works.h"
@@ -26,7 +34,7 @@
 
 int main() {
     // 设置控制台代码页为 UTF-8
-    //SetConsoleOutputCP(CP_UTF8);
+    SetConsoleOutputCP(CP_UTF8);
     // 设置区域信息，支持 UTF-8
     //setlocale(LC_ALL, ".UTF-8");
     // 设置本地化，使用系统默认编码（通常是 GBK 中文系统）
@@ -54,10 +62,18 @@ int main() {
         _19_CLASSES_vs_STRUCTS_in_CPP::main();
         _20_How_to_Write_a_CPP_Class::main();
         _21_Static_in_CPP::main();
+        _22_Static_for_Classes_and_Structs_in_CPP::main();
+        _24_Constructors_in_CPP::main();
+        _25_Destructors_in_CPP::main();
+        _26_Inheritance_in_CPP::main();
+        _27_Virtual_Functions_in_CPP::main();
+        _28_Interfaces_in_CPP_Pure_Virtual_Functions::main();
+        _30_Arrays_in_CPP::main();
+        _31_How_Strings_Work_in_CPP_and_ho_to_use_them::main();
     }
+    _32_String_Literals_in_CPP::main();
 
 
 
-    _22_Static_for_Classes_and_Structs_in_CPP::main();
     return 0;
 }

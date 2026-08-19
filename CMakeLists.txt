@@ -47,4 +47,24 @@ add_executable(learningDemo main.cpp
         Source/_21_Static_in_CPP.cpp
         Header/_21_Static_in_CPP.h
         Source/_22_Static_for_Classes_and_Structs_in_CPP.cpp
-        Header/_22_Static_for_Classes_and_Structs_in_CPP.h)
+        Header/_22_Static_for_Classes_and_Structs_in_CPP.h
+        Source/_23_ENUMS_in_CPP.cpp
+        Header/_23_ENUMS_in_CPP.h
+        Source/_24_Constructors_in_CPP.cpp
+        Header/_24_Constructors_in_CPP.h
+        Source/_25_Destructors_in_CPP.cpp
+        Header/_25_Destructors_in_CPP.h
+        Source/_26_Inheritance_in_CPP.cpp
+        Header/_26_Inheritance_in_CPP.h
+        Source/_27_Virtual_Functions_in_CPP.cpp
+        Header/_27_Virtual_Functions_in_CPP.h
+        Source/_28_Interfaces_in_CPP_Pure_Virtual_Functions.cpp
+        Header/_28_Interfaces_in_CPP_Pure_Virtual_Functions.h
+        Source/_29_Visibility_in_CPP.cpp
+        Header/_29_Visibility_in_CPP.h
+        Source/_30_Arrays_in_CPP.cpp
+        Header/_30_Arrays_in_CPP.h
+        Source/_31_How_Strings_Work_in_CPP_and_ho_to_use_them.cpp
+        Header/_31_How_Strings_Work_in_CPP_and_ho_to_use_them.h
+        Source/_32_String_Literals_in_CPP.cpp
+        Header/_32_String_Literals_in_CPP.h)

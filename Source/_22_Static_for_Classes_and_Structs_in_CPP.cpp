@@ -8,12 +8,11 @@
 #include <ostream>
 
 
-
 struct Entity {
     static int x, y;
 
-    static void Print() {
-        std::cout << x << ":" << y << std::endl;
+    static void Print1(){
+        std::cout <<"static:"<< x << ":" << y << std::endl;
     }
 };
 
@@ -29,6 +28,6 @@ void _22_Static_for_Classes_and_Structs_in_CPP::main() {
     Entity::x = 12;
     Entity::y = 41;
 
-    Entity::Print();//静态方法无法访问示例成员
-    Entity::Print();//静态方法无法访问示例成员
+    Entity::Print1(); //静态方法无法访问示例成员
+    Entity::Print1(); //静态方法无法访问示例成员
 }
