@@ -1,0 +1,16 @@
+//
+// Created by LiMi on 2026/8/21.
+//
+
+#ifndef LEARNINGDEMO__42_OBJECT_LIFETIME_IN_CPP_STACK_SCOPE_LIFETIMES_H
+#define LEARNINGDEMO__42_OBJECT_LIFETIME_IN_CPP_STACK_SCOPE_LIFETIMES_H
+
+
+class _42_Object_Lifetime_in_CPP_Stack_Scope_Lifetimes {
+public:
+    static void main();
+};
+
+
+
+#endif //LEARNINGDEMO__42_OBJECT_LIFETIME_IN_CPP_STACK_SCOPE_LIFETIMES_H

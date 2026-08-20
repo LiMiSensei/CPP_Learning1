@@ -1,0 +1,16 @@
+//
+// Created by LiMi on 2026/8/20.
+//
+
+#ifndef LEARNINGDEMO__39_IMPLICIT_CONVERSION_AND_THE_EXPLICIT_KEYWORD_IN_CPP_H
+#define LEARNINGDEMO__39_IMPLICIT_CONVERSION_AND_THE_EXPLICIT_KEYWORD_IN_CPP_H
+
+
+class _39_Implicit_Conversion_and_the_Explicit_Keyword_in_CPP {
+public:
+    static void main();
+};
+
+
+
+#endif //LEARNINGDEMO__39_IMPLICIT_CONVERSION_AND_THE_EXPLICIT_KEYWORD_IN_CPP_H

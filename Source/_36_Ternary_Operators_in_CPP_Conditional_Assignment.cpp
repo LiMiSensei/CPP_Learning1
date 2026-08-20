@@ -2,7 +2,7 @@
 // Created by LiMi on 2026/8/20.
 //
 
-#include "_36_Ternary_Operators_in_CPP_Conditional_Assignment.h"
+#include "../Header/_36_Ternary_Operators_in_CPP_Conditional_Assignment.h"
 
 void _36_Ternary_Operators_in_CPP_Conditional_Assignment::main() {
     //本质上就是if语句的一种简化写法

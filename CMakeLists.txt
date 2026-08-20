@@ -68,13 +68,27 @@ add_executable(learningDemo main.cpp
         Header/_31_How_Strings_Work_in_CPP_and_ho_to_use_them.h
         Source/_32_String_Literals_in_CPP.cpp
         Header/_32_String_Literals_in_CPP.h
-        Header/_33_CONST_in_CPP.cpp
+        Source/_33_CONST_in_CPP.cpp
         Header/_33_CONST_in_CPP.h
-        Header/_34_The_Mutable_Keyword_in_CPP.cpp
+        Source/_34_The_Mutable_Keyword_in_CPP.cpp
         Header/_34_The_Mutable_Keyword_in_CPP.h
-        Header/_35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List.cpp
+        Source/_35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List.cpp
         Header/_35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List.h
-        Header/_36_Ternary_Operators_in_CPP_Conditional_Assignment.cpp
+        Source/_36_Ternary_Operators_in_CPP_Conditional_Assignment.cpp
         Header/_36_Ternary_Operators_in_CPP_Conditional_Assignment.h
-        Header/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.cpp
-        Header/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.h)
+        Source/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.cpp
+        Header/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.h
+        Source/_38_The_NEW_Keyword_in_CPP.cpp
+        Header/_38_The_NEW_Keyword_in_CPP.h
+        Source/_39_Implicit_Conversion_and_the_Explicit_Keyword_in_CPP.cpp
+        Header/_39_Implicit_Conversion_and_the_Explicit_Keyword_in_CPP.h
+        Source/_40_OPERATORS_and_OPERATOR_OVERLOADING_in_CPP.cpp
+        Header/_40_OPERATORS_and_OPERATOR_OVERLOADING_in_CPP.h
+        Source/_41_The_this_keyword_in_CPP.cpp
+        Header/_41_The_this_keyword_in_CPP.h
+        Source/_42_Object_Lifetime_in_CPP_Stack_Scope_Lifetimes.cpp
+        Header/_42_Object_Lifetime_in_CPP_Stack_Scope_Lifetimes.h
+        Source/_43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr.cpp
+        Header/_43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr.h
+        Source/_44_Copying_and_Copy_Constructors_in_CPP.cpp
+        Header/_44_Copying_and_Copy_Constructors_in_CPP.h)

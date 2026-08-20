@@ -29,6 +29,10 @@
 #include "Header/_35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List.h"
 #include "Header/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.h"
 #include "Header/_3_How_to_Setu_CPP_on_Mac.h"
+#include "Header/_40_OPERATORS_and_OPERATOR_OVERLOADING_in_CPP.h"
+#include "Header/_42_Object_Lifetime_in_CPP_Stack_Scope_Lifetimes.h"
+#include "Header/_43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr.h"
+#include "Header/_44_Copying_and_Copy_Constructors_in_CPP.h"
 #include "Header/_4_How_to_Setup_CPP_on_Linux.h"
 #include "Header/_5_How_CPP_Works.h"
 #include "Header/_6_How_the_CPP_Compiler_Works.h"
@@ -78,10 +82,14 @@ int main() {
         _33_CONST_in_CPP::main();
         _34_The_Mutable_Keyword_in_CPP::main();
         _35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List::main();
+        _37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP::main();
+        _40_OPERATORS_and_OPERATOR_OVERLOADING_in_CPP::main();
+        _42_Object_Lifetime_in_CPP_Stack_Scope_Lifetimes::main();
+        _43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr::main();
     }
 
 
-    _37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP::main();
+    _44_Copying_and_Copy_Constructors_in_CPP::main();
 
 
     return 0;
