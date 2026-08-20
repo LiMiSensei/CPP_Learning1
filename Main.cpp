@@ -24,6 +24,10 @@
 #include "Header/_30_Arrays_in_CPP.h"
 #include "Header/_31_How_Strings_Work_in_CPP_and_ho_to_use_them.h"
 #include "Header/_32_String_Literals_in_CPP.h"
+#include "Header/_33_CONST_in_CPP.h"
+#include "Header/_34_The_Mutable_Keyword_in_CPP.h"
+#include "Header/_35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List.h"
+#include "Header/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.h"
 #include "Header/_3_How_to_Setu_CPP_on_Mac.h"
 #include "Header/_4_How_to_Setup_CPP_on_Linux.h"
 #include "Header/_5_How_CPP_Works.h"
@@ -70,9 +74,14 @@ int main() {
         _28_Interfaces_in_CPP_Pure_Virtual_Functions::main();
         _30_Arrays_in_CPP::main();
         _31_How_Strings_Work_in_CPP_and_ho_to_use_them::main();
+        _32_String_Literals_in_CPP::main();
+        _33_CONST_in_CPP::main();
+        _34_The_Mutable_Keyword_in_CPP::main();
+        _35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List::main();
     }
-    _32_String_Literals_in_CPP::main();
 
+
+    _37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP::main();
 
 
     return 0;

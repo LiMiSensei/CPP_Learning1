@@ -1,0 +1,16 @@
+//
+// Created by LiMi on 2026/8/20.
+//
+
+#ifndef LEARNINGDEMO__36_TERNARY_OPERATORS_IN_CPP_CONDITIONAL_ASSIGNMENT_H
+#define LEARNINGDEMO__36_TERNARY_OPERATORS_IN_CPP_CONDITIONAL_ASSIGNMENT_H
+
+
+class _36_Ternary_Operators_in_CPP_Conditional_Assignment {
+public:
+    static void main();
+};
+
+
+
+#endif //LEARNINGDEMO__36_TERNARY_OPERATORS_IN_CPP_CONDITIONAL_ASSIGNMENT_H

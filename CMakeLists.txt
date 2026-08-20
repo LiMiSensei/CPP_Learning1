@@ -67,4 +67,14 @@ add_executable(learningDemo main.cpp
         Source/_31_How_Strings_Work_in_CPP_and_ho_to_use_them.cpp
         Header/_31_How_Strings_Work_in_CPP_and_ho_to_use_them.h
         Source/_32_String_Literals_in_CPP.cpp
-        Header/_32_String_Literals_in_CPP.h)
+        Header/_32_String_Literals_in_CPP.h
+        Header/_33_CONST_in_CPP.cpp
+        Header/_33_CONST_in_CPP.h
+        Header/_34_The_Mutable_Keyword_in_CPP.cpp
+        Header/_34_The_Mutable_Keyword_in_CPP.h
+        Header/_35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List.cpp
+        Header/_35_Member_Initializer_Lists_in_CPP_Constructor_Initializer_List.h
+        Header/_36_Ternary_Operators_in_CPP_Conditional_Assignment.cpp
+        Header/_36_Ternary_Operators_in_CPP_Conditional_Assignment.h
+        Header/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.cpp
+        Header/_37_How_to_CREATE_INSTANTIATE_OBJECTS_in_CPP.h)
