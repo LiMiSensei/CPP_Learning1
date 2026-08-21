@@ -29,7 +29,9 @@ namespace _44 {
 
         String(const String& other)
             : m_Size(other.m_Size), m_Buffer(other.m_Buffer) {
-            memcpy(this,&other,sizeof(String));
+            std::cout << "Copy String!" << std::endl;
+            m_Buffer = new char[m_Size + 1];
+            memcpy(this, &other, m_Size + 1);
         }
 
         ~String() {
@@ -47,30 +49,39 @@ namespace _44 {
         }
     };
 
+
+
     std::ostream& operator<<(std::ostream& stream, const _44::String& string) {
         stream << string.m_Buffer;
         return stream;
     }
 }
 
+void PringtString( const _44::String& string) {
+    std::cout << string << std::endl;
+}
 
 void _44_Copying_and_Copy_Constructors_in_CPP::main() {
     //今天我们要深入讲解拷贝操作 详细解析C++的拷贝构造函数
     // 拷贝操作本质是复制数据和内存 当需要完整复制某个对象或基本数据类型时
     // 但另一方面，冗余复制会带来负面影响 掌握其应用场景与规避方法
 
-    int a = 2;
-    int b = a; //复制
-    b = 3;
+    // int a = 2;
+    // int b = a; //复制
+    // b = 3;
+    //
+    // _44::Vector2 vec1 = {2, 3};
+    // _44::Vector2 vec2 = vec1; //复制
+    //
+    //
+    // auto* vec3 = new _44::Vector2;
+    // _44::Vector2* vec4 = vec3; //复制了指针，指针指向的内存内有任何变化
+    //
+     _44::String s = "Hello World!";
+     _44::String s1 = s;
+    // std::cout << s << std::endl;
+    // std::cout << s1 << std::endl;
 
-    _44::Vector2 vec1 = {2, 3};
-    _44::Vector2 vec2 = vec1; //复制
-
-    auto* vec3 = new _44::Vector2;
-    _44::Vector2* vec4 = vec3; //复制了指针，指针指向的内存内有任何变化
-
-    _44::String s = "Hello World!";
-    _44::String s1 = s;
-    std::cout << s << std::endl;
-    std::cout << s1 << std::endl;
+    PringtString(s);
+    PringtString(s1);
 }

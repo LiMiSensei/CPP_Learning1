@@ -91,4 +91,22 @@ add_executable(learningDemo main.cpp
         Source/_43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr.cpp
         Header/_43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr.h
         Source/_44_Copying_and_Copy_Constructors_in_CPP.cpp
-        Header/_44_Copying_and_Copy_Constructors_in_CPP.h)
+        Header/_44_Copying_and_Copy_Constructors_in_CPP.h
+        Source/_45_The_Arrow_Operator_in_CPP.cpp
+        Header/_45_The_Arrow_Operator_in_CPP.h
+        Source/_46_Dynamic_Arrays_in_CPP_std_vector.cpp
+        Header/_46_Dynamic_Arrays_in_CPP_std_vector.h
+        Source/_47_Optimizing_the_usage_of_std_vector_in_CPP.cpp
+        Header/_47_Optimizing_the_usage_of_std_vector_in_CPP.h
+        Source/_48_Local_Static_in_CPP.cpp
+        Header/_48_Local_Static_in_CPP.h
+        Source/_49_Using_Libraries_in_CPP_Static_Linking.cpp
+        Header/_49_Using_Libraries_in_CPP_Static_Linking.h
+        Source/_50_Using_Dynamic_Libraries_in_CPP.cpp
+        Header/_50_Using_Dynamic_Libraries_in_CPP.h
+        Source/_51_Making_and_Working_with_Libraries_in_CPP_Multiple_Projects_in_Visual_S.cpp
+        Header/_51_Making_and_Working_with_Libraries_in_CPP_Multiple_Projects_in_Visual_S.h
+        Source/_52_How_to_Deal_with_Multiple_Return_Values_in_CPP.cpp
+        Header/_52_How_to_Deal_with_Multiple_Return_Values_in_CPP.h
+        Source/_53_Templates_in_CPP.cpp
+        Header/_53_Templates_in_CPP.h)

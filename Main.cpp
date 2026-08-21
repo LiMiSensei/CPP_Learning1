@@ -33,7 +33,12 @@
 #include "Header/_42_Object_Lifetime_in_CPP_Stack_Scope_Lifetimes.h"
 #include "Header/_43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr.h"
 #include "Header/_44_Copying_and_Copy_Constructors_in_CPP.h"
+#include "Header/_45_The_Arrow_Operator_in_CPP.h"
+#include "Header/_46_Dynamic_Arrays_in_CPP_std_vector.h"
+#include "Header/_47_Optimizing_the_usage_of_std_vector_in_CPP.h"
+#include "Header/_48_Local_Static_in_CPP.h"
 #include "Header/_4_How_to_Setup_CPP_on_Linux.h"
+#include "Header/_53_Templates_in_CPP.h"
 #include "Header/_5_How_CPP_Works.h"
 #include "Header/_6_How_the_CPP_Compiler_Works.h"
 #include "Header/_7_How_the_CPP_Linker_Works.h"
@@ -86,10 +91,16 @@ int main() {
         _40_OPERATORS_and_OPERATOR_OVERLOADING_in_CPP::main();
         _42_Object_Lifetime_in_CPP_Stack_Scope_Lifetimes::main();
         _43_SMART_POINTERS_in_CPP_std_unique_ptr_std_shared_ptr_std_weak_ptr::main();
+        _44_Copying_and_Copy_Constructors_in_CPP::main();
+        _45_The_Arrow_Operator_in_CPP::main();
+        _46_Dynamic_Arrays_in_CPP_std_vector::main();
+        _47_Optimizing_the_usage_of_std_vector_in_CPP::main();
+        _48_Local_Static_in_CPP::main();
     }
 
 
-    _44_Copying_and_Copy_Constructors_in_CPP::main();
+
+    _53_Templates_in_CPP::main();
 
 
     return 0;
