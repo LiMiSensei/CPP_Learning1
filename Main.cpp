@@ -39,6 +39,11 @@
 #include "Header/_48_Local_Static_in_CPP.h"
 #include "Header/_4_How_to_Setup_CPP_on_Linux.h"
 #include "Header/_53_Templates_in_CPP.h"
+#include "Header/_54_Stack_vs_Heap_Memory_in_CPP.h"
+#include "Header/_55_Macros_in_CPP.h"
+#include "Header/_56_The_auto_keyword_in_CPP.h"
+#include "Header/_58_Function_Pointers_in_CPP.h"
+#include "Header/_59_Lambdas_in_CPP.h"
 #include "Header/_5_How_CPP_Works.h"
 #include "Header/_6_How_the_CPP_Compiler_Works.h"
 #include "Header/_7_How_the_CPP_Linker_Works.h"
@@ -96,11 +101,16 @@ int main() {
         _46_Dynamic_Arrays_in_CPP_std_vector::main();
         _47_Optimizing_the_usage_of_std_vector_in_CPP::main();
         _48_Local_Static_in_CPP::main();
+        _53_Templates_in_CPP::main();
+        _54_Stack_vs_Heap_Memory_in_CPP::main();
+        _55_Macros_in_CPP::main();
+        _56_The_auto_keyword_in_CPP::main();
+        _58_Function_Pointers_in_CPP::main();
     }
 
 
 
-    _53_Templates_in_CPP::main();
+    _59_Lambdas_in_CPP::main();
 
 
     return 0;

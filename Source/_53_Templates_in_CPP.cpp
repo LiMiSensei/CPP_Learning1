@@ -41,6 +41,6 @@ void _53_Templates_in_CPP::main() {
     _53::Print('a');
 
     //这是C++中的一种元编程方式
-    _53::Array<std::string, 5> array;
-    std::cout << array.GetSize() << std::endl;
+    //_53::Array<std::string, 5> array;
+    //std::cout << array.GetSize() << std::endl;
 }

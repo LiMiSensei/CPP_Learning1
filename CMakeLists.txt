@@ -109,4 +109,20 @@ add_executable(learningDemo main.cpp
         Source/_52_How_to_Deal_with_Multiple_Return_Values_in_CPP.cpp
         Header/_52_How_to_Deal_with_Multiple_Return_Values_in_CPP.h
         Source/_53_Templates_in_CPP.cpp
-        Header/_53_Templates_in_CPP.h)
+        Header/_53_Templates_in_CPP.h
+        Source/_54_Stack_vs_Heap_Memory_in_CPP.cpp
+        Header/_54_Stack_vs_Heap_Memory_in_CPP.h
+        Source/_55_Macros_in_CPP.cpp
+        Header/_55_Macros_in_CPP.h
+        Source/_56_The_auto_keyword_in_CPP.cpp
+        Header/_56_The_auto_keyword_in_CPP.h
+        Source/_57_Static_Arrays_in_CPP_std_array.cpp
+        Header/_57_Static_Arrays_in_CPP_std_array.h
+        Source/_58_Function_Pointers_in_CPP.cpp
+        Header/_58_Function_Pointers_in_CPP.h
+        Source/_59_Lambdas_in_CPP.cpp
+        Header/_59_Lambdas_in_CPP.h
+        Source/_60_Why_I_dont_using_namespace_std.cpp
+        Header/_60_Why_I_dont_using_namespace_std.h
+        Source/_61_Namespaces_in_CPP.cpp
+        Header/_61_Namespaces_in_CPP.h)
