@@ -45,6 +45,14 @@
 #include "Header/_58_Function_Pointers_in_CPP.h"
 #include "Header/_59_Lambdas_in_CPP.h"
 #include "Header/_5_How_CPP_Works.h"
+#include "Header/_62_Threads_in_CPP.h"
+#include "Header/_63_Timing_in_CPP.h"
+#include "Header/_64_Multidimensional_Arrays_in_CPP_2D_arrays.h"
+#include "Header/_65_Sorting_in_CPP.h"
+#include "Header/_66_Type_Punning_in_CPP.h"
+#include "Header/_67_Unions_in_CPP.h"
+#include "Header/_68_Virtual_Destructors_in_CPP.h"
+#include "Header/_69_Casting_in_CPP.h"
 #include "Header/_6_How_the_CPP_Compiler_Works.h"
 #include "Header/_7_How_the_CPP_Linker_Works.h"
 #include "Header/_8_Variables_in_CPP.h"
@@ -106,11 +114,18 @@ int main() {
         _55_Macros_in_CPP::main();
         _56_The_auto_keyword_in_CPP::main();
         _58_Function_Pointers_in_CPP::main();
+        _59_Lambdas_in_CPP::main();
+        _62_Threads_in_CPP::main();
+        _63_Timing_in_CPP::main();
+        _64_Multidimensional_Arrays_in_CPP_2D_arrays::main();
+        _65_Sorting_in_CPP::main();
+        _66_Type_Punning_in_CPP::main();
+        _67_Unions_in_CPP::main();
+        _68_Virtual_Destructors_in_CPP::main();
     }
 
 
-
-    _59_Lambdas_in_CPP::main();
+    _69_Casting_in_CPP::main();
 
 
     return 0;

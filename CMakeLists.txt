@@ -125,4 +125,26 @@ add_executable(learningDemo main.cpp
         Source/_60_Why_I_dont_using_namespace_std.cpp
         Header/_60_Why_I_dont_using_namespace_std.h
         Source/_61_Namespaces_in_CPP.cpp
-        Header/_61_Namespaces_in_CPP.h)
+        Header/_61_Namespaces_in_CPP.h
+        Source/_62_Threads_in_CPP.cpp
+        Header/_62_Threads_in_CPP.h
+        Source/_63_Timing_in_CPP.cpp
+        Header/_63_Timing_in_CPP.h
+        Source/_64_Multidimensional_Arrays_in_CPP_2D_arrays.cpp
+        Header/_64_Multidimensional_Arrays_in_CPP_2D_arrays.h
+        Source/_65_Sorting_in_CPP.cpp
+        Header/_65_Sorting_in_CPP.h
+        Source/_66_Type_Punning_in_CPP.cpp
+        Header/_66_Type_Punning_in_CPP.h
+        Source/_67_Unions_in_CPP.cpp
+        Header/_67_Unions_in_CPP.h
+        Source/_68_Virtual_Destructors_in_CPP.cpp
+        Header/_68_Virtual_Destructors_in_CPP.h
+        Source/_69_Casting_in_CPP.cpp
+        Header/_69_Casting_in_CPP.h
+        Source/_70_Conditional_and_Action_Breakpoints_in_CPP.cpp
+        Header/_70_Conditional_and_Action_Breakpoints_in_CPP.h
+        Source/_71_Safety_in_modern_CPP_and_how_to_teach_it.cpp
+        Header/_71_Safety_in_modern_CPP_and_how_to_teach_it.h
+        Source/_72_Precompiled_Headers_in_CPP.cpp
+        Header/_72_Precompiled_Headers_in_CPP.h)
