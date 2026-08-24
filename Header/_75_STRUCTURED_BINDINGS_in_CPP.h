@@ -1,0 +1,16 @@
+//
+// Created by LiMi on 2026/8/25.
+//
+
+#ifndef LEARNINGDEMO__75_STRUCTURED_BINDINGS_IN_CPP_H
+#define LEARNINGDEMO__75_STRUCTURED_BINDINGS_IN_CPP_H
+
+
+class _75_STRUCTURED_BINDINGS_in_CPP {
+public:
+    static void main();
+};
+
+
+
+#endif //LEARNINGDEMO__75_STRUCTURED_BINDINGS_IN_CPP_H

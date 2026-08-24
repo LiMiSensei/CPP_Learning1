@@ -1,0 +1,16 @@
+//
+// Created by LiMi on 2026/8/25.
+//
+
+#ifndef LEARNINGDEMO__74_BENCHMARKING_IN_CPP_HOW_TO_MEASURE_PERFORMANCE_H
+#define LEARNINGDEMO__74_BENCHMARKING_IN_CPP_HOW_TO_MEASURE_PERFORMANCE_H
+
+
+class _74_BENCHMARKING_in_CPP_how_to_measure_performance {
+public:
+    static void main();
+};
+
+
+
+#endif //LEARNINGDEMO__74_BENCHMARKING_IN_CPP_HOW_TO_MEASURE_PERFORMANCE_H

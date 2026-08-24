@@ -1,0 +1,16 @@
+//
+// Created by LiMi on 2026/8/25.
+//
+
+#ifndef LEARNINGDEMO__80_HOW_TO_MAKE_YOUR_STRINGS_FASTER_IN_CPP_H
+#define LEARNINGDEMO__80_HOW_TO_MAKE_YOUR_STRINGS_FASTER_IN_CPP_H
+
+
+class _80_How_to_make_your_STRINGS_FASTER_in_CPP {
+public:
+    static void main();
+};
+
+
+
+#endif //LEARNINGDEMO__80_HOW_TO_MAKE_YOUR_STRINGS_FASTER_IN_CPP_H

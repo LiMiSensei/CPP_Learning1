@@ -54,7 +54,12 @@
 #include "Header/_68_Virtual_Destructors_in_CPP.h"
 #include "Header/_69_Casting_in_CPP.h"
 #include "Header/_6_How_the_CPP_Compiler_Works.h"
+#include "Header/_74_BENCHMARKING_in_CPP_how_to_measure_performance.h"
+#include "Header/_76_How_to_Deal_with_OPTIONAL_Data_in_CPP.h"
+#include "Header/_77_Multiple_TYPES_of_Data_in_a_SINGLE_VARIABLE_in_CPP.h"
 #include "Header/_7_How_the_CPP_Linker_Works.h"
+#include "Header/_80_How_to_make_your_STRINGS_FASTER_in_CPP.h"
+#include "Header/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.h"
 #include "Header/_8_Variables_in_CPP.h"
 #include "Header/_9_Functions_in_CPP.h"
 
@@ -122,10 +127,16 @@ int main() {
         _66_Type_Punning_in_CPP::main();
         _67_Unions_in_CPP::main();
         _68_Virtual_Destructors_in_CPP::main();
+        _69_Casting_in_CPP::main();
+        _74_BENCHMARKING_in_CPP_how_to_measure_performance::main();
+        _76_How_to_Deal_with_OPTIONAL_Data_in_CPP::main();
+        _77_Multiple_TYPES_of_Data_in_a_SINGLE_VARIABLE_in_CPP::main();
+        _80_How_to_make_your_STRINGS_FASTER_in_CPP::main();
     }
 
 
-    _69_Casting_in_CPP::main();
+
+    _81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually::main();
 
 
     return 0;

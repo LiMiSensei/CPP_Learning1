@@ -147,4 +147,22 @@ add_executable(learningDemo main.cpp
         Source/_71_Safety_in_modern_CPP_and_how_to_teach_it.cpp
         Header/_71_Safety_in_modern_CPP_and_how_to_teach_it.h
         Source/_72_Precompiled_Headers_in_CPP.cpp
-        Header/_72_Precompiled_Headers_in_CPP.h)
+        Header/_72_Precompiled_Headers_in_CPP.h
+        Source/_73_Dynamic_Casting_in_CPP.cpp
+        Header/_73_Dynamic_Casting_in_CPP.h
+        Source/_74_BENCHMARKING_in_CPP_how_to_measure_performance.cpp
+        Header/_74_BENCHMARKING_in_CPP_how_to_measure_performance.h
+        Source/_75_STRUCTURED_BINDINGS_in_CPP.cpp
+        Header/_75_STRUCTURED_BINDINGS_in_CPP.h
+        Source/_76_How_to_Deal_with_OPTIONAL_Data_in_CPP.cpp
+        Header/_76_How_to_Deal_with_OPTIONAL_Data_in_CPP.h
+        Source/_77_Multiple_TYPES_of_Data_in_a_SINGLE_VARIABLE_in_CPP.cpp
+        Header/_77_Multiple_TYPES_of_Data_in_a_SINGLE_VARIABLE_in_CPP.h
+        Source/_78_How_to_store_ANY_data_in_CPP.cpp
+        Header/_78_How_to_store_ANY_data_in_CPP.h
+        Source/_79_How_to_make_CPP_run_FASTER_with_std_async.cpp
+        Header/_79_How_to_make_CPP_run_FASTER_with_std_async.h
+        Source/_80_How_to_make_your_STRINGS_FASTER_in_CPP.cpp
+        Header/_80_How_to_make_your_STRINGS_FASTER_in_CPP.h
+        Header/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.cpp
+        Header/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.h)
