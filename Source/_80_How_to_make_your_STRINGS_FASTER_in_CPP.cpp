@@ -10,11 +10,6 @@
 #include <string>
 static uint32_t s_AllocCount = 0;
 
-void* operator new(std::size_t size) {
-    s_AllocCount++;
-    std::cout << "Allocated size " << size << " butes\n";
-    return malloc(size);
-}
 
 #if 0
 void PritName(const std::string& name) {

@@ -164,5 +164,19 @@ add_executable(learningDemo main.cpp
         Header/_79_How_to_make_CPP_run_FASTER_with_std_async.h
         Source/_80_How_to_make_your_STRINGS_FASTER_in_CPP.cpp
         Header/_80_How_to_make_your_STRINGS_FASTER_in_CPP.h
-        Header/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.cpp
-        Header/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.h)
+        Source/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.cpp
+        Header/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.h
+        Source/_82_SINGLETONS_in_CPP.cpp
+        Header/_82_SINGLETONS_in_CPP.h
+        Source/_83_Small_String_Optimization_in_CPP.cpp
+        Header/_83_Small_String_Optimization_in_CPP.h
+        Source/_84_Track_MEMORY_ALLOCATIONS_the_Easy_Way_in_CPP.cpp
+        Header/_84_Track_MEMORY_ALLOCATIONS_the_Easy_Way_in_CPP.h
+        Source/_85_lvalues_and_rvalues_in_CPP.cpp
+        Header/_85_lvalues_and_rvalues_in_CPP.h
+        Source/_86_Continuous_Integration_in_CPP.cpp
+        Header/_86_Continuous_Integration_in_CPP.h
+        Source/_87_Static_Analysis_in_CPP.cpp
+        Header/_87_Static_Analysis_in_CPP.h
+        Source/_88_Argument_Evaluation_Order_in_CPP.cpp
+        Header/_88_Argument_Evaluation_Order_in_CPP.h)

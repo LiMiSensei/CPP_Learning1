@@ -60,6 +60,9 @@
 #include "Header/_7_How_the_CPP_Linker_Works.h"
 #include "Header/_80_How_to_make_your_STRINGS_FASTER_in_CPP.h"
 #include "Header/_81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually.h"
+#include "Header/_83_Small_String_Optimization_in_CPP.h"
+#include "Header/_84_Track_MEMORY_ALLOCATIONS_the_Easy_Way_in_CPP.h"
+#include "Header/_88_Argument_Evaluation_Order_in_CPP.h"
 #include "Header/_8_Variables_in_CPP.h"
 #include "Header/_9_Functions_in_CPP.h"
 
@@ -132,11 +135,14 @@ int main() {
         _76_How_to_Deal_with_OPTIONAL_Data_in_CPP::main();
         _77_Multiple_TYPES_of_Data_in_a_SINGLE_VARIABLE_in_CPP::main();
         _80_How_to_make_your_STRINGS_FASTER_in_CPP::main();
+        _81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually::main();
+        _83_Small_String_Optimization_in_CPP::main();
+        _84_Track_MEMORY_ALLOCATIONS_the_Easy_Way_in_CPP::main();
     }
 
 
 
-    _81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually::main();
+    _88_Argument_Evaluation_Order_in_CPP::main();
 
 
     return 0;
