@@ -63,7 +63,9 @@
 #include "Header/_83_Small_String_Optimization_in_CPP.h"
 #include "Header/_84_Track_MEMORY_ALLOCATIONS_the_Easy_Way_in_CPP.h"
 #include "Header/_88_Argument_Evaluation_Order_in_CPP.h"
+#include "Header/_89_Move_Semantics_in_CPP.h"
 #include "Header/_8_Variables_in_CPP.h"
+#include "Header/_90_std_move_and_the_Move_Assignment_Operator_in_CPP.h"
 #include "Header/_9_Functions_in_CPP.h"
 
 int main() {
@@ -138,11 +140,12 @@ int main() {
         _81_VISUAL_BENCHMARKING_in_CPP_how_to_measure_performance_visually::main();
         _83_Small_String_Optimization_in_CPP::main();
         _84_Track_MEMORY_ALLOCATIONS_the_Easy_Way_in_CPP::main();
+        _88_Argument_Evaluation_Order_in_CPP::main();
+        _89_Move_Semantics_in_CPP::main();
     }
 
 
-
-    _88_Argument_Evaluation_Order_in_CPP::main();
+    _90_std_move_and_the_Move_Assignment_Operator_in_CPP::main();
 
 
     return 0;

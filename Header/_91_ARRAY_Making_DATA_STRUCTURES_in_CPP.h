@@ -1,0 +1,16 @@
+//
+// Created by LiMi on 2026/8/27.
+//
+
+#ifndef LEARNINGDEMO__91_ARRAY_MAKING_DATA_STRUCTURES_IN_CPP_H
+#define LEARNINGDEMO__91_ARRAY_MAKING_DATA_STRUCTURES_IN_CPP_H
+
+
+class _91_ARRAY_Making_DATA_STRUCTURES_in_CPP {
+public:
+    static void main();
+};
+
+
+
+#endif //LEARNINGDEMO__91_ARRAY_MAKING_DATA_STRUCTURES_IN_CPP_H

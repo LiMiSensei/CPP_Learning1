@@ -179,4 +179,12 @@ add_executable(learningDemo main.cpp
         Source/_87_Static_Analysis_in_CPP.cpp
         Header/_87_Static_Analysis_in_CPP.h
         Source/_88_Argument_Evaluation_Order_in_CPP.cpp
-        Header/_88_Argument_Evaluation_Order_in_CPP.h)
+        Header/_88_Argument_Evaluation_Order_in_CPP.h
+        Header/_89_Move_Semantics_in_CPP.cpp
+        Header/_89_Move_Semantics_in_CPP.h
+        Header/_90_std_move_and_the_Move_Assignment_Operator_in_CPP.cpp
+        Header/_90_std_move_and_the_Move_Assignment_Operator_in_CPP.h
+        Header/_91_ARRAY_Making_DATA_STRUCTURES_in_CPP.cpp
+        Header/_91_ARRAY_Making_DATA_STRUCTURES_in_CPP.h
+        Header/_92_VECTOR_DYNAMIC_ARRAY_Making_DATA_STRUCTURES_in_CPP.cpp
+        Header/_92_VECTOR_DYNAMIC_ARRAY_Making_DATA_STRUCTURES_in_CPP.h)
