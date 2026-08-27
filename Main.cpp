@@ -69,6 +69,8 @@
 #include "Header/_92_VECTOR_DYNAMIC_ARRAY_Making_DATA_STRUCTURES_in_CPP.h"
 #include "Header/_93_ITERATORS_in_CPP.h"
 #include "Header/_94_Writing_an_ITERATOR_in_CPP.h"
+#include "Header/_97_Bitwise_AND_OR_XOR_and_NOT_in_CPP.h"
+#include "Header/_98_I_did_a_CPP_University_Assignment.h"
 #include "Header/_9_Functions_in_CPP.h"
 
 int main() {
@@ -148,10 +150,14 @@ int main() {
         _90_std_move_and_the_Move_Assignment_Operator_in_CPP::main();
         _92_VECTOR_DYNAMIC_ARRAY_Making_DATA_STRUCTURES_in_CPP::main();
         _93_ITERATORS_in_CPP::main();
+        _94_Writing_an_ITERATOR_in_CPP::main();
+        _97_Bitwise_AND_OR_XOR_and_NOT_in_CPP::main();
     }
 
 
-    _94_Writing_an_ITERATOR_in_CPP::main();
+
+
+    _98_I_did_a_CPP_University_Assignment::main();
 
 
     return 0;

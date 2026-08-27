@@ -2,7 +2,7 @@
 // Created by LiMi on 2026/8/27.
 //
 
-#include "_95_How_to_REALLY_learn_CPP.h"
+#include "../Header/_95_How_to_REALLY_learn_CPP.h"
 
 void _95_How_to_REALLY_learn_CPP::main() {
     //答案特别简单：开源项目d 你必须学会研读他人代码
