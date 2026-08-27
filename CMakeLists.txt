@@ -187,4 +187,14 @@ add_executable(learningDemo main.cpp
         Header/_91_ARRAY_Making_DATA_STRUCTURES_in_CPP.cpp
         Header/_91_ARRAY_Making_DATA_STRUCTURES_in_CPP.h
         Header/_92_VECTOR_DYNAMIC_ARRAY_Making_DATA_STRUCTURES_in_CPP.cpp
-        Header/_92_VECTOR_DYNAMIC_ARRAY_Making_DATA_STRUCTURES_in_CPP.h)
+        Header/_92_VECTOR_DYNAMIC_ARRAY_Making_DATA_STRUCTURES_in_CPP.h
+        Header/_93_ITERATORS_in_CPP.cpp
+        Header/_93_ITERATORS_in_CPP.h
+        Header/_94_Writing_an_ITERATOR_in_CPP.cpp
+        Header/_94_Writing_an_ITERATOR_in_CPP.h
+        Header/_95_How_to_REALLY_learn_CPP.cpp
+        Header/_95_How_to_REALLY_learn_CPP.h
+        Header/_96_Intro_to_Binary_and_Bitwise_Operators_in_CPP.cpp
+        Header/_96_Intro_to_Binary_and_Bitwise_Operators_in_CPP.h
+        Header/_97_Bitwise_AND_OR_XOR_and_NOT_in_CPP.cpp
+        Header/_97_Bitwise_AND_OR_XOR_and_NOT_in_CPP.h)
